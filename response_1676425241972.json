@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "modelo": "Air Max",
+    "marca": "Nike",
+    "color": "Blanco",
+    "precio": 1800
+  },
+  {
+    "id": 2,
+    "modelo": "Grand Court",
+    "marca": "Adidas",
+    "color": "blanco",
+    "precio": 1200
+  },
+  {
+    "id": 3,
+    "modelo": "X-Ray",
+    "marca": "Puma",
+    "color": "Rojo",
+    "precio": 2100
+  },
+  {
+    "id": 4,
+    "modelo": "Charged",
+    "marca": "Under Armour",
+    "color": "Gris",
+    "precio": 1200
+  }
+]

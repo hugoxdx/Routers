@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "marca": "Samsung",
+    "alambricos": "No",
+    "bateria": "4 horas",
+    "precio": 1200
+  },
+  {
+    "id": 1,
+    "marca": "Xiaomi",
+    "alambricos": "No",
+    "bateria": "6 horas",
+    "precio": 1390
+  },
+  {
+    "id": 1,
+    "marca": "Skullcandy",
+    "alambricos": "Si",
+    "bateria": "N/A",
+    "precio": 2300
+  },
+  {
+    "id": 1,
+    "marca": "Beats",
+    "alambricos": "Si",
+    "bateria": "N/A",
+    "precio": 4400
+  },
+  {
+    "id": 1,
+    "marca": "Bose",
+    "alambricos": "Si",
+    "bateria": "N/A",
+    "precio": 1500
+  }
+]

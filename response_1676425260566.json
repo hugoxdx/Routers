@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "raza": "Boxer",
+    "color": "cafe",
+    "tamanio": "Grande",
+    "precio": 1200
+  },
+  {
+    "id": 2,
+    "raza": "Chihuahua",
+    "color": "cafe claro",
+    "tamanio": "pequeño",
+    "precio": 1800
+  },
+  {
+    "id": 3,
+    "raza": "Pastor Aleman",
+    "color": "cafe y negro",
+    "tamanio": "Grande",
+    "precio": 2200
+  },
+  {
+    "id": 4,
+    "raza": "Pitbull",
+    "color": "gris",
+    "tamanio": "mediano",
+    "precio": 3200
+  },
+  {
+    "id": 5,
+    "raza": "Boxer",
+    "color": "cafe",
+    "tamanio": "Grande",
+    "precio": 1800
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "marca": "Samsung",
+    "pulgadas": 49,
+    "precio": 4500
+  },
+  {
+    "id": 1,
+    "marca": "TCL",
+    "pulgadas": 108,
+    "precio": 8800
+  },
+  {
+    "id": 1,
+    "marca": "LG",
+    "pulgadas": 39,
+    "precio": 14000
+  },
+  {
+    "id": 1,
+    "marca": "Panasonic",
+    "pulgadas": 50,
+    "precio": 9900
+  },
+  {
+    "id": 1,
+    "marca": "Daevo",
+    "pulgadas": 90,
+    "precio": 2900
+  }
+]

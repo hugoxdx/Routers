@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "Nombre": "Laura",
+    "Edad": 33,
+    "estatura": 1.6,
+    "Ocupacion": "Profesora"
+  },
+  {
+    "id": 2,
+    "Nombre": "Marlenne",
+    "Edad": 19,
+    "estatura": 1.67,
+    "Ocupacion": "Veterinaria"
+  },
+  {
+    "id": 3,
+    "Nombre": "Jesus",
+    "Edad": 22,
+    "estatura": 1.7,
+    "Ocupacion": "Streamer"
+  },
+  {
+    "id": 4,
+    "Nombre": "Rodrigo",
+    "Edad": 21,
+    "estatura": 1.66,
+    "Ocupacion": "Conductor"
+  },
+  {
+    "id": 5,
+    "Nombre": "Jordan",
+    "Edad": 23,
+    "estatura": 1.6,
+    "Ocupacion": "Abogado"
+  },
+  {
+    "id": 6,
+    "Nombre": "Aldo",
+    "Edad": 17,
+    "estatura": 1.68,
+    "Ocupacion": "Arquitecto"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "marca": "Coca Cola",
+    "litros": 3,
+    "precio": 45
+  },
+  {
+    "id": 2,
+    "marca": "Fanta",
+    "litros": 2.5,
+    "precio": 39
+  },
+  {
+    "id": 3,
+    "marca": "Pepsi",
+    "litros": 1,
+    "precio": 19
+  },
+  {
+    "id": 4,
+    "marca": "Squirt",
+    "litros": 3,
+    "precio": 42
+  },
+  {
+    "id": 5,
+    "marca": "Mundet",
+    "litros": 2.7,
+    "precio": 30
+  }
+]
